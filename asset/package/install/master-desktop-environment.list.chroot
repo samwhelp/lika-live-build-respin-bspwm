@@ -46,7 +46,7 @@ rofi
 ## > install `obsession` for `obsession-exit`, `obsession-logout` , `xdg-autostart`
 ##
 
-#obsession
+obsession
 
 
 
@@ -55,7 +55,7 @@ rofi
 ## > install `mate-media` for `/usr/bin/mate-volume-control-status-icon`
 ##
 
-#mate-media
+mate-media
 
 
 
